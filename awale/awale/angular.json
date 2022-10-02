@@ -104,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "awale"
+  "defaultProject": "awale",
+  "cli": {
+    "analytics": false
+  }
 }

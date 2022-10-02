@@ -1,0 +1,12 @@
+/home/fcooker/Projects/rust/pokes/awale/awale/rust/target/release/deps/libthiserror_impl-fd07d68cd0faa555.so: /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/home/fcooker/Projects/rust/pokes/awale/awale/rust/target/release/deps/thiserror_impl-fd07d68cd0faa555.d: /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs /home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs
+
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/lib.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/ast.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/attr.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/expand.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/fmt.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/generics.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/prop.rs:
+/home/fcooker/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.35/src/valid.rs:
